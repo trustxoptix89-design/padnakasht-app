@@ -1,0 +1,620 @@
+{
+  "generated": "2026-11-10",
+  "source_folder_id": "1wVpc81bz5nGXNWuYSsvAfNzP_-hQQSrH",
+  "method": "هر عکس از روی بندانگشتی ۳۲۰پیکسلی با چشم بررسی شد؛ ابعاد واقعی هنگام دانلود در خط لولهٔ انتشار سنجیده می‌شود (width/height=null تا آن موقع).",
+  "kinds": {
+    "real_photo": "عکس واقعی گوشی",
+    "designed_poster": "پوستر طراحی‌شده با متن برند",
+    "studio_unverified": "ظاهر استودیویی/ساخته‌شده، واقعی‌بودن تأیید نشده"
+  },
+  "entries": [
+    {
+      "drive_file_id": "1AKbQyd6-4KdNT0LJT7dfK3jSgrJYqOy8",
+      "filename": "file_0000000069988210bc9072b5ad8794ea.png",
+      "pillar": "shireh",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "education"
+      ],
+      "tags": [
+        "شیره",
+        "چهارشیره",
+        "انگور",
+        "توت",
+        "انجیر",
+        "خرما",
+        "پادناکشت"
+      ],
+      "description": "پوستر طراحی‌شده «چهارشیره»: شیشهٔ تیره با درپوش زرد، انگور سیاه، انجیر و خرما؛ لوگوی پادناکشت پایین",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1CZYV8ZI89_RWgRjDARwjn7A2JSU5eqB8",
+      "filename": "IMG_20260924_222814.jpg",
+      "pillar": "shireh",
+      "kind": "real_photo",
+      "content_pillars": [
+        "education",
+        "producer",
+        "sales"
+      ],
+      "tags": [
+        "شیره",
+        "شیشه",
+        "درپوش چوبی",
+        "ماکرو",
+        "تیره"
+      ],
+      "description": "نمای نزدیک سه شیشهٔ شیرهٔ تیره با درپوش چوبی روی میز چوبی؛ نور روز",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1DDgv6SPIOZM-OIYUCAjdlE1uMa2e3sCW",
+      "filename": "IMG_20260927_185151.jpg",
+      "pillar": "verjuice",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "education",
+        "cooking"
+      ],
+      "tags": [
+        "آبغوره",
+        "انگور",
+        "بطری",
+        "پادناکشت",
+        "باغ"
+      ],
+      "description": "پوستر آبغورهٔ طبیعی: بطری پلاستیکی کهربایی، خوشهٔ انگور سبز، لیوان، پس‌زمینهٔ کوهستان",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1G987R8Wp9GgZAYz1iXFBu63tLxezjAeR",
+      "filename": "file_00000000951881f4912b303b305d86c9.png",
+      "pillar": "cheese",
+      "kind": "studio_unverified",
+      "content_pillars": [
+        "nature",
+        "cooking",
+        "education"
+      ],
+      "tags": [
+        "پنیر",
+        "لور",
+        "ظرف سفالی",
+        "کوه",
+        "فرش",
+        "پادنا"
+      ],
+      "description": "تکه‌های پنیر سفید در ظرف سفالی روی فرش رنگی، گیاهان و دامنهٔ کوهستان پشت آن؛ ظاهر شبیه تصویر ساخته‌شده است (واقعی‌بودن تأیید نشده)",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1HVmdg-deqdyF5QR90_tFZYm1ntp2uN9s",
+      "filename": "IMG_20260905_000754_964.jpg",
+      "pillar": "misc",
+      "kind": "real_photo",
+      "content_pillars": [
+        "producer"
+      ],
+      "tags": [
+        "تور",
+        "توری",
+        "آبی",
+        "خشک‌کردن"
+      ],
+      "description": "توری آبی‌رنگ با نوار سفید روی سطح چوبی؛ کاربرد دقیق مشخص نیست (احتمالاً سطح خشک‌کردن). برای پست‌ها کم‌ارزش",
+      "width": null,
+      "height": null,
+      "usable": false,
+      "exclude_reason": "موضوع نامشخص"
+    },
+    {
+      "drive_file_id": "1Hb5ArkFYsLZ4r2NrIjxK1_FBlokfA74Y",
+      "filename": "InShot_20260927_205858826.jpg",
+      "pillar": "verjuice",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "education"
+      ],
+      "tags": [
+        "آبغوره",
+        "انگور",
+        "بطری"
+      ],
+      "description": "همان پوستر آبغوره (نسخهٔ InShot، تکراری 1DDgv6SP)",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "duplicate_of": "1DDgv6SPIOZM-OIYUCAjdlE1uMa2e3sCW",
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1IVWmNPSXqbHbdgKbfMU1mw5z2dUVySXb",
+      "filename": "IMG_20260921_121007.png",
+      "pillar": "mulberry_shireh",
+      "kind": "real_photo",
+      "content_pillars": [
+        "education",
+        "cooking",
+        "producer"
+      ],
+      "tags": [
+        "شیره توت",
+        "توت خشک",
+        "ظرف شفاف",
+        "تیره"
+      ],
+      "description": "شیرهٔ توت تیره در ظرف پلاستیکی شفاف، توت‌های خشک سفید در سبد پشت آن",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1JqtwxMt60RGbR5PKbkjuOjMsQqC8gIy7",
+      "filename": "file_00000000a208820ab519fc219dabc818.png",
+      "pillar": "honey",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "nature",
+        "education"
+      ],
+      "tags": [
+        "عسل",
+        "چهل گیاه",
+        "کوهستان",
+        "گل",
+        "زنبور",
+        "شانه"
+      ],
+      "description": "پوستر «عسل طبیعی چهل‌گیاه کوهستان پادنا»: شیشهٔ عسل با درپوش زرد، گل‌های وحشی، قاشق عسل، قله‌ها",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1L9fY6J1PlaJvySy1J66dG91Rw0Y797bH",
+      "filename": "image_1788555083566.jpeg",
+      "pillar": "misc",
+      "kind": "studio_unverified",
+      "content_pillars": [],
+      "tags": [
+        "جعبه",
+        "پالت"
+      ],
+      "description": "جعبه‌های پلاستیکی سبز روی پالت در اتاق؛ برچسب «Made with AI» دارد",
+      "width": null,
+      "height": null,
+      "usable": false,
+      "exclude_reason": "برچسب Made with AI"
+    },
+    {
+      "drive_file_id": "1MX31OKbIvzykrRClc2xpH-IzFr3qJOE6",
+      "filename": "IMG_20260904_221953.jpg",
+      "pillar": "misc",
+      "kind": "real_photo",
+      "content_pillars": [
+        "producer"
+      ],
+      "tags": [
+        "گالن",
+        "بسته‌بندی",
+        "درپوش",
+        "آشپزخانه"
+      ],
+      "description": "گالن‌های سفید پلاستیکی با درپوش زرد و نارنجی روی میز چوبی؛ محتوا مشخص نیست",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "note": "برای روایت پشت‌صحنه/بسته‌بندی؛ محتوا نامشخص"
+    },
+    {
+      "drive_file_id": "1PJ-50tjQsF2fRkflSPnWj0pRg0ZV6_2t",
+      "filename": "file_00000000ad2c81f4afb131e48615b165.png",
+      "pillar": "grape_shireh",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "education",
+        "cooking"
+      ],
+      "tags": [
+        "شیره انگور",
+        "انگور",
+        "قاشق",
+        "شیشه",
+        "پادناکشت"
+      ],
+      "description": "پوستر «شیرهٔ انگور»: قاشق پر از شیرهٔ تیره، شیشه، خوشه‌های انگور سیاه؛ لوگوی پادناکشت",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1ULbho-kSUTK0V2TDKogi4zQ1EVy-1p4O",
+      "filename": "file_000000007fa88210b144201c1edc757e.png",
+      "pillar": "kashk",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "cooking",
+        "education"
+      ],
+      "tags": [
+        "کشک",
+        "گاوی",
+        "محلی",
+        "سبزی کوهی",
+        "بشقاب"
+      ],
+      "description": "پوستر «کشک محلی گاوی»: تکه‌های کشک روی بشقاب فلزی، سبزی‌های کوهی، گاو در پس‌زمینه",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1UmQQ1_SkaB0ljXoDsvZPJwhcqQRNlLxI",
+      "filename": "IMG_20260926_102921.png",
+      "pillar": "tahini",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales",
+        "cooking",
+        "education"
+      ],
+      "tags": [
+        "ارده",
+        "کنجد",
+        "شیشه",
+        "پادناکشت"
+      ],
+      "description": "پوستر «ارده کنجد سفید»: شیشهٔ ارده با درپوش زرد، کاسه‌های کنجد، کاسهٔ ارده",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1Vh8Zy-1gJq6XQGe9gbcQPp_ELlBJ_FdC",
+      "filename": "IMG_20260918_023626.png",
+      "pillar": "brand",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "producer",
+        "nature",
+        "sales"
+      ],
+      "tags": [
+        "لوگو",
+        "پادناکشت",
+        "مزه ناب کوهستان دنا",
+        "محصولات طبیعی روستایی",
+        "نشان"
+      ],
+      "description": "نشان/لوگوی دایره‌ای پادناکشت با شعار «مزه ناب کوهستان دنا»؛ بطری سرکه، شیشهٔ شیره، پنیر، گردو، لوبیا، قله‌ها",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": false
+    },
+    {
+      "drive_file_id": "1Vn1ZneAc3tm2mrsXt9WTyRnlotAaUsRZ",
+      "filename": "file_000000001ca4820cb5aad2d1bc026a88.png",
+      "pillar": "beans",
+      "kind": "studio_unverified",
+      "content_pillars": [
+        "education",
+        "cooking"
+      ],
+      "tags": [
+        "لوبیا چیتی",
+        "لوبیا",
+        "دانه",
+        "پس‌زمینهٔ سفید"
+      ],
+      "description": "انبوه دانه‌های لوبیا چیتی از بالا روی زمینهٔ سفید، بدون نوشته؛ ظاهر استودیویی (واقعی‌بودن تأیید نشده)",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1lW4CsGqmZtbSGl91178jXdtOyDxp4w04",
+      "filename": "image_1790453767020.jpeg",
+      "pillar": "verjuice",
+      "kind": "designed_poster",
+      "content_pillars": [],
+      "tags": [
+        "آبغوره",
+        "انگور"
+      ],
+      "description": "پوستر آبغورهٔ خالص با برچسب «Made with AI» و املای نام برند مشکوک",
+      "width": null,
+      "height": null,
+      "usable": false,
+      "exclude_reason": "برچسب Made with AI",
+      "has_brand_text": true
+    },
+    {
+      "drive_file_id": "1mHJvDyKpYVTiqa2P6t6mL3kL60oxCb3a",
+      "filename": "file_000000008964820cbacbb04d7e6cbb2e.png",
+      "pillar": "beans",
+      "kind": "designed_poster",
+      "content_pillars": [
+        "sales"
+      ],
+      "tags": [
+        "لوبیا چیتی",
+        "کاسه",
+        "پادناکشت"
+      ],
+      "description": "پوستر «لوبیا پادناکشت»: کاسهٔ چوبی لوبیا؛ روی پوستر قیمت «۴۰۰ هزار تومان» چاپ شده — فقط برای پست فروش و فقط تا زمانی که قیمت همین باشد",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": true,
+      "has_price_text": true,
+      "price_text_value": 400000
+    },
+    {
+      "drive_file_id": "1mIA6MLsET-55nzzK-Xx1-tkh9ONGqzR1",
+      "filename": "IMG_20260823_231029_076.jpg",
+      "pillar": "nature",
+      "kind": "real_photo",
+      "content_pillars": [
+        "nature"
+      ],
+      "tags": [
+        "رودخانه",
+        "کوه",
+        "روستا",
+        "درخت",
+        "طبیعت",
+        "بهار"
+      ],
+      "description": "رودخانهٔ پرآب گل‌آلود کنار باغ و درختان، خانه‌ای روستایی و قله‌ای در پس‌زمینه؛ نور روز، آسمان نیمه‌ابری",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false,
+      "note": "مکان دقیق تأیید نشده؛ در متن فقط «روستا/کوه» بیاید، نام مکان خاص نیاید"
+    },
+    {
+      "drive_file_id": "1sK7JID6kTjdJO0g85BtuGHoa96j68RH6",
+      "filename": "image_1788555614073.jpeg",
+      "pillar": "misc",
+      "kind": "studio_unverified",
+      "content_pillars": [],
+      "tags": [
+        "انگور",
+        "جعبه"
+      ],
+      "description": "جعبه‌های سیاه پر از انگور/غوره سبز-زرد؛ برچسب «Made with AI» دارد",
+      "width": null,
+      "height": null,
+      "usable": false,
+      "exclude_reason": "برچسب Made with AI"
+    },
+    {
+      "drive_file_id": "1tNWXla_J45VxzcYt89fuglSPNLQ7fJ8Q",
+      "filename": "IMG_20260928_190111_767.jpg",
+      "pillar": "walnut",
+      "kind": "real_photo",
+      "content_pillars": [
+        "education",
+        "cooking",
+        "sales",
+        "producer"
+      ],
+      "tags": [
+        "گردو",
+        "مغز گردو",
+        "بشقاب فلزی",
+        "نمونه"
+      ],
+      "description": "مغز گردوی شکسته در بشقاب فلزی، نمای از بالا؛ (مغز فقط نمونهٔ نمایش کیفیت است، محصول فروش گردوی با پوست است)",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1te-YBOastDvo9zjKaBu0KifYUVuQ4gxD",
+      "filename": "IMG_20260921_120938.png",
+      "pillar": "mulberry_shireh",
+      "kind": "real_photo",
+      "content_pillars": [
+        "education",
+        "cooking",
+        "producer"
+      ],
+      "tags": [
+        "شیره توت",
+        "ریختن",
+        "توت خشک",
+        "سبد",
+        "نعنا"
+      ],
+      "description": "ریختن شیرهٔ توت تیره از ظرف به ظرف شفاف؛ توت‌های خشک در سبد و برگ سبز کنار آن",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    },
+    {
+      "drive_file_id": "1yY0eWPvMuuOaSw_50vMJXK3IjoQJf1pf",
+      "filename": "IMG_20260924_222557.jpg",
+      "pillar": "liquid_unknown",
+      "kind": "real_photo",
+      "content_pillars": [
+        "producer",
+        "education"
+      ],
+      "tags": [
+        "بطری",
+        "مایع کهربایی",
+        "آشپزخانه"
+      ],
+      "description": "بطری پلاستیکی با درپوش قرمز و مایع کهربایی در آشپزخانه؛ محتوا (آبغوره/سرکه) نیازمند تأیید است",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "note": "قبل از استفاده نام محصول تأیید شود"
+    },
+    {
+      "drive_file_id": "1yc9HqoTQcgI4jJ7W0E5gWpZQFPaI8vIX",
+      "filename": "630595617_1790882372994254.jpg",
+      "pillar": "shireh",
+      "kind": "real_photo",
+      "content_pillars": [
+        "education",
+        "sales",
+        "producer"
+      ],
+      "tags": [
+        "شیره",
+        "شیشه",
+        "درپوش طلایی",
+        "میز چوبی"
+      ],
+      "description": "سه شیشهٔ مربع با شیرهٔ تیره و درپوش طلایی روی میز چوبی؛ نور گرم",
+      "width": null,
+      "height": null,
+      "usable": true,
+      "has_brand_text": false
+    }
+  ],
+  "pending_unseen": [
+    {
+      "drive_file_id": "1UgBVQj2qfv3JS0bxCrzDdGPdfOL6ngpP",
+      "filename": "IMG_20261005_004426.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1VlqHul24VkaiAYMkWxdp1rovj0wETJXD",
+      "filename": "IMG_20261006_131325_697.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "12ScmBOezw0NCrOcaixX7AWolX2fWbw8y",
+      "filename": "IMG_20261010_200252.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1lQJAChToKdHB6nvB3XGCRKxuxHPcTMQS",
+      "filename": "IMG-20261017-WA0000.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1utZDCYjWlw7a1ik6TkvnwT0Lqdsm_VXz",
+      "filename": "IMG_20261029_073827.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1G5nZ0waoBFNo6lh9qhvqP_0FZoitFw-c",
+      "filename": "273677888_1790882651719671.jpg",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1rUfoI4i_v73vGGphTT3wnHZ0TCt-y71U",
+      "filename": "file_000000008b008210a8593136a653c945.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1jRllCTFCq0vzUSsGypK_hFV3yBtglV0M",
+      "filename": "file_00000000c9e081f4abf1a6a2e102d864.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1hDtBBdR147xasRxhACYrp4LviNx7C292",
+      "filename": "file_000000008da08243bab6f4f28378a572.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1S14MQm3Jd6oDfCrdzRJikQymq05Dwi0G",
+      "filename": "file_00000000c07c82108864753af202ffc9.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1UY85gtSFXfZZ1uIxOn6klUyDVek3vRp1",
+      "filename": "file_00000000bf0481f5b585d5a0f220c110.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1IPk86HkKBQmwqi48TcAs8Ke1180gG5mv",
+      "filename": "file_0000000069a481f4a6f807b3da63cf10.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "13l-xAkSt62QM5whyIuIZWYToc9oqMxPQ",
+      "filename": "file_00000000557c8210a3b101ae5dc51af7.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "11wQFbiOhyRAofMSEGp45MD73QWfFG5Ol",
+      "filename": "file_0000000067bc81f4a1b296d767d6217e.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    },
+    {
+      "drive_file_id": "1cMKBL6ayKl0_vkHsQxja7I7GgDW43y2x",
+      "filename": "file_0000000017c4820a9d7a5b36b057ee1e.png",
+      "status": "private_not_viewable",
+      "reason": "کپی خصوصی در حساب کاربر؛ بندانگشتی عمومی ندارد، تا اشتراک‌گذاری لینک‌دار دیده/برچسب‌گذاری نشده"
+    }
+  ],
+  "skipped": [
+    {
+      "filename": "grok_video_*.mp4 / VID_20260924_223602.mp4 / mp4-r1-f0-w1-p1.mp4",
+      "reason": "ویدیو؛ در فاز عکس استفاده نمی‌شود"
+    },
+    {
+      "filename": "Screenshot_*chatgpt*.jpg / Screenshot_*eitaa*.jpg",
+      "reason": "اسکرین‌شات خصوصی؛ هرگز استفاده نمی‌شود"
+    },
+    {
+      "filename": "PadnaKesht_Professional_v*.xlsx",
+      "reason": "جدول؛ نه عکس"
+    }
+  ]
+}
